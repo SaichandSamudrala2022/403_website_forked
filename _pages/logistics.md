@@ -44,7 +44,7 @@ We strongly encourage all students to form reading groups for joint study of the
 
 ***
 
-### Grading
+<!-- ### Grading
 
 The class requirements include *5 homework assignments* (55% of the grade) and *3 quizzes* (45% of the grade). By the end of this class you should have a good understanding of the basic methodologies in deep reinforcement learning, and be able to use them to solve real problems of modest complexity.
 
@@ -216,4 +216,4 @@ If you or anyone you know experiences any academic stress, difficult life events
 
 Please feel free to reuse any of these course materials that you find of use in your own courses.
 
-We ask that you retain any copyright notices, and include a written notice indicating the source of any materials you use.
+We ask that you retain any copyright notices, and include a written notice indicating the source of any materials you use. -->
