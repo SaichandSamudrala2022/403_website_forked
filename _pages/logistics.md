@@ -9,18 +9,16 @@ title: Logistics
 
 ***
 
-### Learning Resources
+### Course Information
 
 #### Readings
 
-- [SB] [Sutton & Barto, Reinforcement Learning: An Introduction, 2nd edition](http://incompleteideas.net/book/RLbook2018.pdf)
-- [GBC] [Goodfellow, Bengio & Courville, Deep Learning](http://www.deeplearningbook.org/)
-
-Chapters from these two texts, as well as relevant academic papers, will be referenced alongside each lecture, under the [Lectures]({{ "/lectures" | relative_url }}) section. 
-
-The papers and chapters linked to each lecture are required unless noted as optional. They are instrumental to help you understand the concepts and algorithms taught in class.
-
-If you want additional resources which contain parts of the course material, we recommend the following:
+Course Number: ECEN 426
+Course Title: Security of Embedded Systems
+Section: 500/700
+Time: Tuesdays and Thursdays 9:35 am – 10:50 am
+Location: ETB 1020 (Section 500) & Online (Section 700)
+Credit Hours: 3
 
 #### Online courses
 
