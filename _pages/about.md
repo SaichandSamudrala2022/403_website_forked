@@ -38,7 +38,8 @@ Students should have a solid understanding of the following areas
 ***
 **Homeworks:**\
 [Homework 1:](http://incompleteideas.net/book/RLbook2018.pdf)\
-[Homework 2:](http://incompleteideas.net/book/RLbook2018.pdf)
+[Homework 2:](http://incompleteideas.net/book/RLbook2018.pdf)\
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: solid;text-decoration-thickness: 5%;cursor: pointer">Homework 3:</a>
 
 ***
 **Lectures:**\
