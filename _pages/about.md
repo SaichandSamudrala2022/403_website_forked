@@ -2,8 +2,8 @@
 layout: about
 permalink: /
 title: <b>D</b>eep <b>R</b>einforcement <b>L</b>earning
-description: 10-403 • Spring 2021 • Carnegie Mellon University
-logo: cmu-logo.png
+description: ECEN 426 • Spring 2023 • Texas A&M University
+logo: TAM-Stack.png
 news: true
 ---
 
