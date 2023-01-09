@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <b>D</b>eep <b>R</b>einforcement <b>L</b>earning
+title: Security of Embedded Systems
 description: ECEN 426 • Spring 2023 • Texas A&M University
 logo: TAM-Stack.png
 news: true
