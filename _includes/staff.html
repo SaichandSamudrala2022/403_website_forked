@@ -23,7 +23,7 @@
   </div>
   {% endfor %}
 
-  {% for instructor in site.data.staff.TAs %}
+<!--   {% for instructor in site.data.staff.TAs %}
   <div class="instructor-profile-two-col">
     {% if instructor.image %}
     <a href="{{ instructor.url }}" target="_blank"><img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" /></a>
@@ -33,7 +33,8 @@
       <li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a></li>
       <li><span>Office hours:</span> {{ instructor.office-hours }}</li>
       <!-- <li><span>Zoom:</span> <a href="{{ instructor.zoom }}" target="_blank">Link</a></li> -->
-    </ul>
+<!--     </ul>
   </div>
-  {% endfor %}
+  {% endfor %}  -->
+
 </div>
