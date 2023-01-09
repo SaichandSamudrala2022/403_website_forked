@@ -39,11 +39,13 @@ Students should have a solid understanding of the following areas
 **Homeworks:**
 
 [Homework 1:](http://incompleteideas.net/book/RLbook2018.pdf)
+[Homework 2:](http://incompleteideas.net/book/RLbook2018.pdf)
 
 ***
 **Lectures:**
 
 [Lecture 1:](http://incompleteideas.net/book/RLbook2018.pdf)
+[Lecture 2:](http://incompleteideas.net/book/RLbook2018.pdf)
 
 ***
 - **Lectures:** Tuesday, Thursday 10:40 AM - 12:00 noon
