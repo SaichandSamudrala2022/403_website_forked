@@ -15,9 +15,13 @@ title: Logistics
 
 Course Number: ECEN 426
 Course Title: Security of Embedded Systems
+
 Section: 500/700
+
 Time: Tuesdays and Thursdays 9:35 am – 10:50 am
+
 Location: ETB 1020 (Section 500) & Online (Section 700)
+
 Credit Hours: 3
 
 #### Online courses
