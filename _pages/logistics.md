@@ -11,8 +11,6 @@ title: Logistics
 
 ### Course Information
 
-#### Readings
-
 Course Number: ECEN 426
 Course Title: Security of Embedded Systems
 
