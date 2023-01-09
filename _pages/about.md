@@ -37,10 +37,12 @@ Students should have a solid understanding of the following areas
 
 ***
 **Homeworks:**
+
 [Homework 1:](http://incompleteideas.net/book/RLbook2018.pdf)
 
 ***
 **Lectures:**
+
 [Lecture 1:](http://incompleteideas.net/book/RLbook2018.pdf)
 
 ***
