@@ -36,15 +36,13 @@ Students should have a solid understanding of the following areas
 - Anti-req Prohibits: None
 
 ***
-**Homeworks:**
-
-[Homework 1:](http://incompleteideas.net/book/RLbook2018.pdf)
+**Homeworks:**\
+[Homework 1:](http://incompleteideas.net/book/RLbook2018.pdf)\
 [Homework 2:](http://incompleteideas.net/book/RLbook2018.pdf)
 
 ***
-**Lectures:**
-
-[Lecture 1:](http://incompleteideas.net/book/RLbook2018.pdf)
+**Lectures:**\
+[Lecture 1:](http://incompleteideas.net/book/RLbook2018.pdf)\
 [Lecture 2:](http://incompleteideas.net/book/RLbook2018.pdf)
 
 ***
