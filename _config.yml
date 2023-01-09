@@ -1,9 +1,9 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-author: 10-403 Staff
-name: 10-403 Deep RL
-title: Deep Reinforcement Learning
+author: ECEN 426 Staff
+name: ECEN 426
+title:  SECURITY OF EMBEDDED SYSTEMS
 email: ta-deeprl@lists.andrew.cmu.edu
 description: >
   10-403 - Deep Reinforcement Learning and Control - Carnegie Mellon University - Spring 2021
