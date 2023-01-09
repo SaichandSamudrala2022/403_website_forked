@@ -36,7 +36,10 @@ Students should have a solid understanding of the following areas
 - Anti-req Prohibits: None
 
 ***
+**Homeworks:**
+- [Homework 1:](http://incompleteideas.net/book/RLbook2018.pdf)
 
+***
 - **Lectures:** Tuesday, Thursday 10:40 AM - 12:00 noon
 - **Recitations:** Friday 12:30 PM - 1:50 PM
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
