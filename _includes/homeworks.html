@@ -1,0 +1,5 @@
+{% for homework in site.data.homeworks.Homeworks %}
+<div class="homework_links">
+  <a href="{{ homework.url }}" style="color: black; text-decoration: underline;text-decoration-style: solid;text-decoration-thickness: 5%;cursor: pointer">{{homework.title}}</a>
+</div>
+{% endfor %} 
