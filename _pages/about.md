@@ -37,23 +37,16 @@ Students should have a solid understanding of the following areas
 
 ***
 **Homeworks:**\
-[Homework 1:](http://incompleteideas.net/book/RLbook2018.pdf)\
-[Homework 2:](http://incompleteideas.net/book/RLbook2018.pdf)\
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: solid;text-decoration-thickness: 5%;cursor: pointer">Homework 3:</a>
 {% include homeworks.html %}
 
 ***
 **Lectures:**\
-[Lecture 1:](http://incompleteideas.net/book/RLbook2018.pdf)\
-[Lecture 2:](http://incompleteideas.net/book/RLbook2018.pdf)
+{% include lectures.html %}
 
 ***
 - **Lectures:** Tuesday, Thursday 10:40 AM - 12:00 noon
 - **Recitations:** Friday 12:30 PM - 1:50 PM
-<!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
 - **Discussion:** [Piazza](https://piazza.com){:target="\_blank"}
 - **HW submission:** [Gradescope](https://www.gradescope.com){:target="\_blank"}
-<!-- - **Contact:** For external enquiries, personal matters or in emergencies, you can email Brynn at 
-bedmunds@andrew.cmu.edu. -->
 
 ***
