@@ -36,11 +36,11 @@ Students should have a solid understanding of the following areas
 - Anti-req Prohibits: None
 
 ***
-**Homeworks:**\
+**Homeworks:**
 {% include homeworks.html %}
 
 ***
-**Lectures:**\
+**Lectures:**
 {% include lectures.html %}
 
 ***
