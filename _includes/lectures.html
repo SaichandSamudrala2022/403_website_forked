@@ -1,0 +1,5 @@
+{% for lecture in site.data.lectures.Lectures %}
+<div class="lecture_links">
+  <a href="{{ lecture.url }}" style="color: black; text-decoration: underline;text-decoration-style: solid;text-decoration-thickness: 5%;cursor: pointer">{{lecture.title}}</a>
+</div>
+{% endfor %} 
