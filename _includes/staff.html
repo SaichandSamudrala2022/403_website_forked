@@ -17,7 +17,7 @@
     {% if staff.image %}
     <img src="{{ staff.image | prepend: '/assets/img/' | relative_url }}" />
     {% endif %}
-    <ul class="staff-info">
+    <ul class="instructor-info">
       <li><span>TA</span> {{ staff.name }}</li>
       <li><span>Email:</span> <a href="mailto:{{ staff.email | encode_email }}" target="_blank">{{ staff.email }}</a></li>
 <!--       <li><span>Office hours:</span> {{ instructor.office-hours }}</li> -->
